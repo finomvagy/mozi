@@ -1,0 +1,3 @@
+#movie-list { list-style: none; padding: 0; }
+#movie-list li { cursor: pointer; padding: 5px; border-bottom: 1px solid #ccc; }
+#movie-details { margin-top: 20px; }
